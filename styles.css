@@ -1,0 +1,62 @@
+h1,p,h2{
+text-align:center;
+color:black;
+}
+h1,h2{
+font-family:impact sans-serif;    
+}
+h1{
+font-size:30px;    
+}
+h2{
+font-size:20px;    
+}
+
+hr{
+height:3px;
+background-color:brown;
+border-color:brown;    
+}
+
+.establish{
+font-style:italic;    
+}
+
+body{
+background-image:url(https://img.freepik.com/free-photo/coffee-beans-with-props-making-coffee_1220-4526.jpg?w=2000);
+
+font-family:sans-serif;
+}
+
+.menu, .menu1{
+width:80%;
+background-color:burlywood;
+margin-left:auto;
+margin-right:auto;
+max-width:500px;
+padding: 20px;
+}
+
+.flavor, .desert{
+text-align:left;
+width:49%;
+}
+
+.price{
+text-align:right;
+width:49%;
+}
+
+.item p{
+display:inline-block;
+margin-top:5px;
+margin-bottom:5px;
+font-size:18px;
+}
+
+img{
+margin-left:230px; 
+}
+
+
+
